@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Midterm Project News Feed</string>
+    <string name="base_api">http://content.guardianapis.com/search?api-key=test</string>
+    <string name="no_news">No news is available.</string>
+</resources>
